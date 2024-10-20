@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTeste" tests="24" skipped="0" failures="0" errors="0" timestamp="2024-10-20T09:58:37" hostname="DESKTOP-GO8N2MN" time="0.109">
+  <properties/>
+  <testcase name="[1] 23" classname="MainTeste" time="0.046"/>
+  <testcase name="[2] 46" classname="MainTeste" time="0.001"/>
+  <testcase name="[3] 115" classname="MainTeste" time="0.001"/>
+  <testcase name="[4] 184" classname="MainTeste" time="0.001"/>
+  <testcase name="[5] 207" classname="MainTeste" time="0.001"/>
+  <testcase name="[6] 230" classname="MainTeste" time="0.001"/>
+  <testcase name="[1] 25, 5" classname="MainTeste" time="0.006"/>
+  <testcase name="[2] 100, 10" classname="MainTeste" time="0.0"/>
+  <testcase name="[3] 49, 7" classname="MainTeste" time="0.001"/>
+  <testcase name="[4] 36, 6" classname="MainTeste" time="0.001"/>
+  <testcase name="[5] 81, 9" classname="MainTeste" time="0.0"/>
+  <testcase name="[6] 144, 12" classname="MainTeste" time="0.0"/>
+  <testcase name="[1] 32" classname="MainTeste" time="0.001"/>
+  <testcase name="[2] 64" classname="MainTeste" time="0.001"/>
+  <testcase name="[3] 2" classname="MainTeste" time="0.001"/>
+  <testcase name="[4] 20" classname="MainTeste" time="0.0"/>
+  <testcase name="[5] 30" classname="MainTeste" time="0.001"/>
+  <testcase name="[6] 26" classname="MainTeste" time="0.001"/>
+  <testcase name="[1] 3" classname="MainTeste" time="0.002"/>
+  <testcase name="[2] 23" classname="MainTeste" time="0.001"/>
+  <testcase name="[3] 311" classname="MainTeste" time="0.0"/>
+  <testcase name="[4] 487" classname="MainTeste" time="0.001"/>
+  <testcase name="[5] 653" classname="MainTeste" time="0.001"/>
+  <testcase name="[6] 947" classname="MainTeste" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
